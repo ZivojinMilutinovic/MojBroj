@@ -1,0 +1,3 @@
+-------------- TRENUTNI BROJ RUNDE =1--------------
+Brojevi koji su bili na raspolaganju su:2,1,3,2,15,50
+Trazeni trocifreni broj je:366

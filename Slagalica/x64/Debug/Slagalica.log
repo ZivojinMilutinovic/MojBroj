@@ -1,0 +1,8 @@
+﻿  FileReader.cpp
+  Igra.cpp
+  Runda.cpp
+  Slagalica.cpp
+  Test.cpp
+  Generating Code...
+C:\Users\korisnik\Desktop\Posao\Slagalica\Slagalica\Slagalica\Igra.cpp(202): warning C4715: 'Igra::applyOp': not all control paths return a value
+  Slagalica.vcxproj -> C:\Users\korisnik\Desktop\Posao\Slagalica\Slagalica\x64\Debug\Slagalica.exe
